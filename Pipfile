@@ -14,6 +14,7 @@ selenium = "*"
 requests = "*"
 lxml = "*"
 html5lib = "*"
+tabulate = "*"
 
 [requires]
 python_version = "3.8"
